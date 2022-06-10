@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyelimPark&fontSize=70&animation=twinkling)
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -37,7 +39,7 @@
 </p>
 
 
-<h3 align="center">📗 Learning & Upcoming Tech Stack 📗</h3>
+<h3 align="center">📚 Learning & Upcoming Tech Stack 📚</h3>
 <p align=center>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
@@ -50,5 +52,5 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djc06048&show_icons=true&theme=cobalt)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djc06048&show_icons=true&theme=cobalt) -->
 
