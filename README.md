@@ -28,6 +28,17 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djc06048)](https://solved.ac/djc06048/)
+  
+---
+
+
+<h3 align="center"> How to reach me </h3>
+<p align="center">
+<a href="mailto:gsafe1213@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gsafe1213@gmail.com"/>
+</a>
+</p>
+<br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=3474d3&height=200&section=footer)
 
