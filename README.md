@@ -33,7 +33,8 @@ Currently I am studying backend development.
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
 
-
+<br/>
+<br/>
 
 ## About Me
 
