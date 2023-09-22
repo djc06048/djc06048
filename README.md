@@ -32,7 +32,7 @@
 <br/>
 <h3 align="center"> 🌱 Tech Blog </h3>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=djc06048)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=djc06048)]([벨로그링크](https://velog.io/@djc06048/AWS-EC2%EC%99%80-RDS-%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0-%EC%97%B0%EB%8F%99%ED%95%B4%EB%B3%B4%EA%B8%B0-EC2%EC%97%90%EC%84%9C-RDS-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0))
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdjc06048&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
