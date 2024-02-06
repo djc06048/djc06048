@@ -38,7 +38,7 @@ Currently I am studying backend development.
 
 ## About Me
 
-[![Notion](https://hyelimlog.notion.site/ada207f5d0684e3f804fce5ccd77b87b?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://hyelimlog.notion.site/ada207f5d0684e3f804fce5ccd77b87b?pvs=4)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@djc06048)
 <a href="mailto:gsafe1213@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:gsafe1213@gmail.com"/>
